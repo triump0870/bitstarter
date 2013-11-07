@@ -6,3 +6,11 @@ Amazon EC2
 ==========
 1. Create an amazon account 
 2. initiate a EC2 instance
+
+Heroku Account
+==============
+Create a heroku account
+
+Github Account
+==============
+Create a github account
